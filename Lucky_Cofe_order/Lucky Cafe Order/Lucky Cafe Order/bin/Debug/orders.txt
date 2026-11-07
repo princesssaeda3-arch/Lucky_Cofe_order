@@ -1,0 +1,26 @@
+1) saeda ahmed - Coffee - Lucky: 18 - $2.00
+Lucky Message: No prize this time.
+Total Price: $2
+----------------------
+1) saeda ahmed - Coffee - Lucky: 8 - $2.00
+
+Member Discount: 10%
+Total Before Discount: $2.00
+Total After Discount: $1.80
+Lucky Message: No prize this time.
+Total Price: $1.8
+----------------------
+1) ahmed - Juice - Lucky: 27 - $3.00
+2) ahmed - Juice - Lucky: 1 - $3.00
+Lucky Message: No prize this time.
+Total Price: $6
+----------------------
+
+1) sadra - Tea - Lucky: 33 - $1.00
+
+Member Discount: 10%
+Total Before Discount: $1.00
+Total After Discount: $0.90
+Lucky Message: No prize this time.
+Total Price: $0.9
+----------------------
